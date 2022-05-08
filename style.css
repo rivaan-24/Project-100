@@ -1,0 +1,100 @@
+#textarea_output {
+    width: 1000px;
+}
+
+#camera {
+    width: 500px;
+    height: 400px;
+    border: 5px solid rgb(0, 26, 255);
+}
+
+#start_button {
+    width: 40%;
+    background-color: #f44336;
+}
+
+#heading {
+    color: rgb(201, 101, 20);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-style: oblique;
+    text-shadow: 8px 8px 9px orange;
+
+}
+
+body {
+    text-align: center;
+    background-color: dodgerblue;
+}
+
+#instructions {
+    font-weight: bolder;
+    font-size: large;
+    font-style: initial;
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: gold;
+    text-shadow: 8px 8px 6px red;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    font-weight: bolder;
+    font-size: large;
+    font-style: initial;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(255, 0, 0);
+    text-shadow: 8px 8px 4px rgb(0, 255, 98);
+}
+
+img:hover {
+    border-radius: 130px;
+    box-shadow: 0 6px 8px 0 black;
+    padding: 20px;
+    width: 100px;
+    max-width: 100%;
+    height: auto;
+}
+
+img:hover {
+    border-radius: 130px;
+    box-shadow: 0 6px 8px 0 black;
+    padding: 20px;
+    width: 200px;
+}
+
+img:hover {
+    border-radius: 130px;
+    box-shadow: 0 6px 8px 0 black;
+    padding: 20px;
+    width: 200px;
+}
+
+#instructions_for_button {
+    font-weight: bolder;
+    font-size: large;
+    font-style: initial;
+    font-family: 'Kufam', sans-serif;
+    color: rgb(229, 255, 0);
+    text-shadow: 8px 8px 4px rgb(212, 0, 255);
+}
+
+#text_advice {
+    font-weight: bolder;
+    font-size: large;
+    font-style: initial;
+    font-family: 'Kanit', sans-serif;
+    color: rgb(255, 0, 0);
+    text-shadow: 8px 8px 4px rgb(0, 255, 98);
+}
+
+#picture_display {
+    font-weight: bolder;
+    font-size: large;
+    font-style: initial;
+    font-family: 'Texturina', serif;
+    color: rgb(255, 123, 0);
+    text-shadow: 8px 8px 4px rgb(251, 255, 0);
+}
